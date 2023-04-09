@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="member:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/member_jar</output-path>
+    <root id="archive" name="member.jar">
+      <element id="module-output" name="member" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/javax.mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/guicedee/services/javax.activation/62/javax.activation-62.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/guicedee/services/jakarta.activation/62/jakarta.activation-62.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
